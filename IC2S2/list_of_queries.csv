@@ -1,0 +1,23 @@
+"nom_cluster.3","Theme","Configuration","Dimension","requête","query_1","query_2"
+"Le vin","Wine","Episodic","Environment","vign*","vigne|viticult",
+"Plan écophyto","Plan écophyto","Episodic","Environment","écophyto","écophyto|zéro phyto(s*)",
+"Transition écologique et débats publics","Ecological transition and public debates","Chronic","Environment","“débat public” OR “convention citoyenne”","débat(s*) public(s*)|convention(s*) citoyenne(s*)|transition.*écologique(s*)",
+"Épandages et riverains","Spreading of pesticides and housing area","Episodic","Health","riverain*","épandage|pulvéris(ations*)","riverain|distance"
+"Le rapport du CIRC","IARC’s report","Chronic","Health","CIRC","\bcirc\b|(centre|centre international) .*recherche.*cancer|\biarc\b",
+"SDHI","SDHI","Episodic","Health","SDHI","sdhi",
+"Affaire Triskalia","Triskalia Case","Episodic","Health","triskalia OR nutrea-triskalia","triskalia|nutréa|nutrea|(nutréa||nutrea)-triskalia",
+"Les espèces nuisibles","Pests","Chronic","Environment","(insecte* OR parasite* OR ravageur*) AND traitements","insecte|parasite|ravageur","traitement(s*)"
+"Le virus Zika","Zika Virus","Episodic","Health","Zika","zika",
+"Chlordécone","Chlordécone","Episodic","Health","chlordécone","chlordécone",
+"La mortalité des abeilles","Bees’ Decline","Chronic","Health","abeilles OR apicult*","abeille|apicult",
+"Néonicotinoïdes","Neonicotinoide","Chronic","Environment","néonicotinoïdes","(néo|neo)-?nic(otino(ï|i)de*)|(néo|neo)-?nic(s*)",
+"Procès de Monsanto","Monsanto ","Chronic","Health","Monsanto","monsanto",
+"La science en question","Science in debate","Chronic","Environment","sciences OR scientifiques","science|scientifique",
+"Politiques agricoles françaises et sortie du glyphosate","French agricultural policies","Episodic","Environment","Travert OR “sortie du glypho*”","Travert|sortie du glypho",
+"La crise de la biodiversité","Biodiversity Crisis","Chronic","Environment","biodiversité","biodiversité",
+"Perturbateurs endocriniens","Endocrinian disruptors","Episodic","Health","endocrinien*","endocrinien",
+"Pollution de l'eau","Water pollution","Chronic","Environment","pollution AND (eau OR phréatique)","(pollution|contamination)(s*).*\b(eau|phréatique(s*))\b",
+"Sécurité des aliments","Food Safety","Episodic","Health","consomm* AND (résidu* OR fipronyl)","consomm","résidu(s*)|contamin"
+"Réchauffement climatique","Climate Warming","Chronic","Environment","climatique","climatique",
+"Régulation européenne","European regulation of pesticides","Chronic","Health","commission européenne","commission européenne|autorité(s*) européenne(s*)",
+"Troubles de santé","Health troubles","Chronic","Health","maladie* OR thyroïde* OR alzheimer OR cardiovasculaire? OR menstruel* OR parkinson (que ferait trouble*.)","troubles.\w*\b.*\w*\b|thyroïd|alzheimer|parkinson|menstruel|cancer|cardiovasculaire",
